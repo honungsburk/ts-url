@@ -1,0 +1,16 @@
+{
+  "name": "ts-url",
+  "version": "1.0.0",
+  "description": "A port of Elm's URL library to Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parser",
+    "typescript",
+    "url"
+  ],
+  "author": "Frank Hampus Weslien",
+  "license": "MIT"
+}
